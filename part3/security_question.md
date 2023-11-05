@@ -1,5 +1,5 @@
 
-##Respuesta de la prueba
+#Respuesta de la prueba
 
 Al realizar una auditoría de seguridad de la infraestructura de mi aplicación de instalación de paneles solares, me centraría primero en los siguientes aspectos: 
 
