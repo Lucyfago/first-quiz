@@ -49,7 +49,7 @@ PEOPLE_ANIMALS = [
 # No need to look any further!
 ###
 
-DB_NAME = "quiz_pets"
+DB_NAME = "quiz_pets.db"
 
 def get_connection():
   return sqlite3.connect(DB_NAME)
